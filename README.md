@@ -11,7 +11,7 @@
 
 ### 🧠 Extended Description
 
-I'm currently pursuing my **M.Tech in Computer Science and Technology** with a focus on **Artificial Intelligence, Big Data, and Biomedical Applications**. My academic journey is guided by a passion for applying computational tools to understand complex systems—whether biological or digital.
+I'm currently pursuing my **M.Tech in Computer Science and Technology** with a focus on **Artificial Intelligence, Machine  Learning & Deep Learning**. My academic journey is guided by a passion for applying computational tools to understand complex systems—whether biological or digital.
 
 My research interests lie at the intersection of **AI, Security, and Neuroscience**. I have practical experience building **Deep Learning models for Audio Forensics**, including a custom **Deepfake Detection System** (ASVspoof 5) that achieved a 21.84% EER. My long-term goal is to contribute to **healthcare innovations** and **secure AI systems**, bridging the gap between raw data and actionable insights.
 

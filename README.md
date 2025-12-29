@@ -1,27 +1,24 @@
 ### 👋 Hi, I’m @bhushnbrt
 
-- 👀 I’m interested in **Big Data Analytics, Machine Learning, Neuroscience, and Healthcare AI**
-- 🌱 I’m currently learning **Statistical Modeling, Python for Big Data, and MRI-based neuroimaging analysis**
-- 💞️ I’m looking to collaborate on **research projects related to cognitive neuroscience, non-human primate studies, or medical image analysis**
+- 👀 I’m interested in **Machine Learning, Audio AI, Big Data Analytics, Neuroscience, and Healthcare AI**
+- 🌱 I’m currently working on **Deepfake Detection Systems (CNNs), Statistical Modeling, and MRI-based neuroimaging analysis**
+- 💞️ I’m looking to collaborate on **research projects related to AI Security, Audio Forensics, Cognitive Neuroscience, or Medical Imaging**
 - 📫 How to reach me: **[bhushnbrt@gmail.com]** or connect via **[https://www.linkedin.com/in/bhushnbrt/]**
 - 😄 Pronouns: **he/him**
-- ⚡ Fun fact: **I enjoy decoding brain data and drawing insights from complex datasets – coffee fuels both!**
+- ⚡ Fun fact: **I enjoy decoding brain signals and spectrograms alike – coffee fuels both!**
 
 ---
 
 ### 🧠 Extended Description
 
-I'm currently pursuing my **M.Tech in Computer Science and Technology** with a focus on **Big Data, Machine Learning, and Biomedical Applications**. My academic journey is guided by a passion for applying computational tools to understand complex biological systems, especially in the brain.
+I'm currently pursuing my **M.Tech in Computer Science and Technology** with a focus on **Artificial Intelligence, Big Data, and Biomedical Applications**. My academic journey is guided by a passion for applying computational tools to understand complex systems—whether biological or digital.
 
-My research interests lie at the intersection of **artificial intelligence and neuroscience**, with a long-term goal of contributing to **healthcare innovations**—particularly in **neuroimaging (MRI), behavioral neuroscience**, and **non-human primate research**. I’m also enthusiastic about exploring **collaborative filtering, unsupervised learning**, and **data-intensive computing frameworks like Hadoop and MapReduce**.
+My research interests lie at the intersection of **AI, Security, and Neuroscience**. I have practical experience building **Deep Learning models for Audio Forensics**, including a custom **Deepfake Detection System** (ASVspoof 5) that achieved a 21.84% EER. My long-term goal is to contribute to **healthcare innovations** and **secure AI systems**, bridging the gap between raw data and actionable insights.
 
-Beyond academics, I enjoy contributing to open-source projects, building reproducible research workflows, and learning new tools in data science and scientific computing.
+I’m also enthusiastic about exploring **collaborative filtering, unsupervised learning**, and **data-intensive computing frameworks like Hadoop and MapReduce**.
 
-If you share interests in **neuroscience, AI for health, or advanced analytics**, feel free to connect or collaborate!
+Beyond academics, I enjoy contributing to open-source projects, building reproducible research workflows, and experimenting with new architectures in TensorFlow and PyTorch.
+
+If you share interests in **Neuroscience, Audio AI, or Advanced Analytics**, feel free to connect or collaborate!
 
 ---
-
-<!---
-bhushnbrt/bhushnbrt is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->

@@ -1,7 +1,7 @@
 ### 👋 Hi, I’m Bharat
 
 - 👀 I’m interested in **Machine Learning, Audio AI, Big Data Analytics, Neuroscience, and Healthcare AI**
-- 🌱 I’m currently working on **Deepfake Detection Systems (CNNs), Statistical Modeling, and MRI-based neuroimaging analysis**
+- 🌱 I’m currently working on **Audio Deepfake Detection**
 - 💞️ I’m looking to collaborate on **research projects related to AI Security, Audio Forensics, Cognitive Neuroscience, or Medical Imaging**
 - 📫 How to reach me: **[bhushnbrt@gmail.com]** or connect via **[https://www.linkedin.com/in/bhushnbrt/]**
 - 😄 Pronouns: **he/him**

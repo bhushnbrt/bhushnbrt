@@ -1,4 +1,4 @@
-### 👋 Hi, I’m @bhushnbrt
+### 👋 Hi, I’m Bharat
 
 - 👀 I’m interested in **Machine Learning, Audio AI, Big Data Analytics, Neuroscience, and Healthcare AI**
 - 🌱 I’m currently working on **Deepfake Detection Systems (CNNs), Statistical Modeling, and MRI-based neuroimaging analysis**
